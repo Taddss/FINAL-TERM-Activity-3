@@ -1,0 +1,13 @@
+D:\Program Files\BPC\Activity#3_TADEO\Activity#3_TADEO\bin\Debug\Activity#3_TADEO.exe.config
+D:\Program Files\BPC\Activity#3_TADEO\Activity#3_TADEO\bin\Debug\Activity#3_TADEO.exe
+D:\Program Files\BPC\Activity#3_TADEO\Activity#3_TADEO\bin\Debug\Activity#3_TADEO.pdb
+D:\Program Files\BPC\Activity#3_TADEO\Activity#3_TADEO\obj\Debug\Activity#3_TADEO.csproj.AssemblyReference.cache
+D:\Program Files\BPC\Activity#3_TADEO\Activity#3_TADEO\obj\Debug\Activity_3_TADEO.Properties.Resources.resources
+D:\Program Files\BPC\Activity#3_TADEO\Activity#3_TADEO\obj\Debug\Activity_3_TADEO.RegisterForm.resources
+D:\Program Files\BPC\Activity#3_TADEO\Activity#3_TADEO\obj\Debug\Activity_3_TADEO.SignInForm.resources
+D:\Program Files\BPC\Activity#3_TADEO\Activity#3_TADEO\obj\Debug\Activity#3_TADEO.csproj.GenerateResource.cache
+D:\Program Files\BPC\Activity#3_TADEO\Activity#3_TADEO\obj\Debug\Activity#3_TADEO.csproj.CoreCompileInputs.cache
+D:\Program Files\BPC\Activity#3_TADEO\Activity#3_TADEO\obj\Debug\Activity#3_TADEO.exe
+D:\Program Files\BPC\Activity#3_TADEO\Activity#3_TADEO\obj\Debug\Activity#3_TADEO.pdb
+D:\Program Files\BPC\Activity#3_TADEO\Activity#3_TADEO\bin\Debug\sampledb.accdb
+D:\Program Files\BPC\Activity#3_TADEO\Activity#3_TADEO\obj\Debug\Activity_3_TADEO.DashboardForm.resources
